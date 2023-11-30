@@ -25,3 +25,11 @@ A few resources to get you started if this is your first brick template:
 [5]: https://youtu.be/qjA0JFiPMnQ
 [6]: https://youtu.be/o8B1EfcUisw
 [7]: https://youtu.be/LXhgiF5HiQg
+
+## Using the Brick 🧱
+
+### Generating a project from the brick template 🚀
+
+```sh
+$ mason make talon_forge --config-path brick/config.json --output-dir ~/StudioProjects/ForgeOutput
+```
