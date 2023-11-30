@@ -8,7 +8,7 @@ TalonForge not only accelerates the initial stages of app development but also i
 
 In the realm of Flutter development, TalonForge stands as a symbol of prowess and effectiveness, echoing the attributes of the mighty eagle's talon in the digital landscape.
 
-Developed with 💙 by [DammyOlolade][https://github.com/Dammyololade]
+Developed with 💙 by [DammyOlolade][github_profile]
 
 [![License: MIT][license_badge]][license_link]
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
@@ -86,5 +86,5 @@ Out of the box, Very Good Core includes:
 [license_link]: https://opensource.org/licenses/MIT
 [null_safety_link]: https://flutter.dev/docs/null-safety
 [testing_link]: https://flutter.dev/docs/testing
-[very_good_analysis_link]: https://pub.dev/packages/very_good_analysis
+[github_profile]: https://github.com/Dammyololade
 
