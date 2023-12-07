@@ -22,9 +22,9 @@ class AppTheme {
   }
 }
 
-extension ThemeExt on Theme {
+extension ThemeExt on BuildContext {
 
-  AppColorScheme get appColorScheme => data.colorScheme as AppColorScheme;
+  AppColorScheme get appColorScheme => Theme.of(this).colorScheme as AppColorScheme;
 }
 
 extension TextThemeX on TextTheme {
